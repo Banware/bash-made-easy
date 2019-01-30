@@ -7,6 +7,9 @@ To save, you'll have to press the following keys in this order: `control + x`, `
 
 main-plus-bonus.txt has more commands that require other programs to already be installed to be run.
 
+
 *RTV: Browse reddit via the terminal* - Can be found here: https://github.com/michael-lazar/rtv
+
 *Homebrew: Install commands that are not on your mac by default* - Can be found here: https://brew.sh
+
 *Googler: Google anything from the terminal* - Can be found here: https://github.com/jarun/googler
