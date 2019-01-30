@@ -1,4 +1,4 @@
-# easier-bash
+# bash-made-easy
 *making the terminal easier to use for those who aren't as tech savvy*
 
 Copy and paste `main.txt`'s contents into the ~/.bash_profile file to add the commands, do not delete anything when you do paste it
